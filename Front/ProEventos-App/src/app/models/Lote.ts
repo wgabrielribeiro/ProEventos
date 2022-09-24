@@ -1,4 +1,5 @@
 import { Evento } from "./Evento";
+import { LocationStrategy } from "@angular/common"
 
 export interface Lote {
 
